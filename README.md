@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GretchenSchadebrodt
 - 👀 I’m interested in creative arts
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on visual arts coding
+- 💞️ I’m looking to collaborate on visual arts coding or help with QA testing hopefully within the arts industry!
 - 📫 How to reach me : shoot me a message!
 - 😄 Pronouns: She/her/
 - ⚡ Fun fact: I love growing plants at home!
